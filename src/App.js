@@ -10,7 +10,8 @@ function App() {
       <Navbar />
       <Hero />
       <Player />
-      
+
+    
     </div>
   );
 }
